@@ -1,2 +1,2 @@
 # Penicillium-detection-in-citrus-sinensis
-Penicillium detection in citrus sinensis
+This project employs a Convolutional Neural Network (CNN) and deep learning techniques to detect Penicillium species in oranges (Citrus sinensis). The system processes images of infected fruit, leveraging CNN's image classification capabilities to identify and differentiate between healthy and infected samples. This approach aims to provide an efficient, accurate, and automated solution for early disease detection in citrus fruits, minimizing post-harvest losses and enhancing quality control.
