@@ -35,3 +35,14 @@ This project utilizes a Convolutional Neural Network (CNN) and deep learning tec
 ## To clone the repository
  - git clone https://github.com/yourusername/penicillium-detection.git
  - cd penicillium-detection
+
+ - ## Usage
+
+### Training the Model
+- Place your training data in a directory named `data` with subfolders for each class:
+  - `Positive` for infected samples.
+  - `Negative` for healthy samples.
+- Run the script to train the model:
+  ```bash
+  python your_script.py
+
